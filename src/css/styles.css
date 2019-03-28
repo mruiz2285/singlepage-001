@@ -1,3 +1,17 @@
 *{
-  
+
+}
+/*----header-----*/
+.d_logo{
+  width: 80px;
+}
+.nav-link{
+  color: rgba(2, 2, 2 0.4);  
+}
+.nav-link:hover{
+  color: rgba(2, 2, 2, 0.7);
+}
+.active{
+  font-weight: bold;
+  font-size: 1.1rem;
 }
