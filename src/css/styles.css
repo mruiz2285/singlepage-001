@@ -1,5 +1,4 @@
 *{
-
 }
 /*----header-----*/
 .d_logo{
@@ -17,6 +16,10 @@
 }
 
 /*----primera imagen-----*/
-.robot1{
-  margin-top: 0.5em;
+.fullsize{
+  /*--background-image: url("imagen/background.jpg");--*/
+  background: black
+}
+.imgr-1{
+  width: 400px;
 }
